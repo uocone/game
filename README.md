@@ -4,4 +4,4 @@
   *  the provider of the game server. Whether other players use this server is a completely automatic choice, without any controller. 
   *  The author of the new version of the game. Whether the game server provider uses this new version of the submitted game is completely autonomous and has no controller.
 ## Game demo
-<http://player.youku.com/embed/XMzc5Mjk5NDYwNA==' frameborder=0 'allowfullscreen'>
+<http://player.youku.com/embed/XMzc5Mjk5NDYwNA==>
